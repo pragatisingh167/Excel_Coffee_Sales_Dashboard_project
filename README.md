@@ -1,8 +1,7 @@
-Coffee Sales Dashboard
+**Coffee Sales Dashboard**
 
 Welcome to the Coffee Sales Dashboard project! This repository contains an interactive and self-explanatory Excel-based dashboard showcasing detailed insights into coffee sales data over the years and months. I've gathered, transformed, analyzed, and visualized the data to create a dynamic, and user-friendly dashboard.
-
-Features
+**Features**
 Interactive Interface: The dashboard provides an intuitive and interactive interface for users to explore and analyze coffee sales data effortlessly.
 Self-Explanatory Visualizations: The visualizations are designed to be self-explanatory, offering a clear and comprehensive overview of key performance indicators and trends.
 Data Transformation: Raw data has been processed and transformed to ensure accuracy and relevance in the dashboard visualizations.
