@@ -12,5 +12,5 @@ Data Transformation: Raw data has been processed and transformed to ensure accur
 
 Dynamic Elements: The dashboard includes dynamic elements that allow users to customize views, apply filters, and drill down into specific details for a more in-depth analysis.
 
-Open the main Excel file (CoffeeOrdersProject) using Microsoft Excel or a compatible spreadsheet application.
+Open the main Excel file (CoffeeDataAnalysis) using Microsoft Excel or a compatible spreadsheet application.
 Once the file is open, explore the Excel workbook to interact with the dashboard visualizations.
